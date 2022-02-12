@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif
+	font-size: 20px;
+	line-height: 20px;
+}
+header{
+	background-color: crimson;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+h1,h2{
+	font-family:permanent marker ;
+	color: darkorange;
+}
+header h1{
+	color: darkorange;
+	font-size: 50px;
+}
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 7px solid darkorange;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 30px;
+	margin: 10px 0px 10px;
+}
+a{
+	color: darkorange;
+}
+a:hover{
+	color: darkred;
+}
+footer{
+	background-color: crimson;
+	text-align: center;
+	padding: 30px;
+}
+footer p{
+	margin: 0;
+}
+p.caption{
+	color: lightslategrey;
+	font-style: italic;
+	margin-top: 0;
+}
+
